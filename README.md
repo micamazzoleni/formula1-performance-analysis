@@ -1,9 +1,9 @@
 # Formula 1 Performance Analysis
 
 ## 📊 Project Overview
-This project analyzes Formula 1 performance data to identify trends in driver and team performance over time.
+This project analyzes Formula 1 data between 2005 and 2022 to identify the key factors that influence winning performance.
 
-The goal is to understand which factors influence success in Formula 1 and compare drivers and teams across seasons.
+The goal is to evaluate drivers, teams and race variables to understand what determines success in Formula 1.
 
 ---
 
@@ -13,51 +13,42 @@ The goal is to understand which factors influence success in Formula 1 and compa
 
 ---
 
-## 📊 Key Metrics
-- Wins
-- Podiums
-- Points
+## 🔍 Analysis Focus
+The analysis focuses on:
+- Driver performance
+- Team performance
 - Race results
-- Driver and team performance
+- Pit stop efficiency
 
 ---
 
-## 📊 Dashboard Pages
-
-### Overview
-General performance trends across seasons.
-
-### Drivers Analysis
-Comparison of driver performance, consistency and results.
-
-### Teams Analysis
-Analysis of constructor performance and competitiveness.
-
----
-
-## 🔍 Key Insights
-- Certain drivers dominate specific eras
+## 📈 Key Insights
+- Lewis Hamilton is the most dominant driver in the analyzed period
+- Ferrari is one of the most competitive teams historically
+- Faster pit stops significantly improve race outcomes
 - Team performance strongly impacts driver success
-- Consistency is a key factor for championship results
-- Performance varies significantly across seasons
 
 ---
 
-## 💡 Business Insight (Storytelling)
-Although Formula 1 is a sport, performance analysis reflects real-world data scenarios:
-- Comparing entities (drivers/teams)
-- Identifying trends over time
-- Evaluating performance consistency
+## 💡 Strategic Insight
+Winning in Formula 1 is not only about driver talent.
+
+The analysis shows that success depends on a combination of:
+- High-performing drivers
+- Competitive teams
+- Efficient pit stop strategies
 
 ---
 
-## 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
-![Overview](dashboard_screenshots/overview.png)
 ![Drivers](dashboard_screenshots/drivers.png)
 ![Teams](dashboard_screenshots/teams.png)
+![Races](dashboard_screenshots/races.png)
 
 ---
 
-## 📎 Full Dashboard
-Dashboard file available upon request.
+## 📎 Notes
+This project was developed as part of a Data Analytics course.
+
+Full dashboard file available upon request.
